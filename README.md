@@ -36,3 +36,6 @@
 
 ## 🗃️Cơ sở dữ liệu
 ![image](https://github.com/user-attachments/assets/a1946d66-2bef-429e-8125-ee76994c2262)
+
+>📌**Bài tập quản lý dự án:**[Xem tại đây](https://1024terabox.com/s/18Lw56V1k7QaqCa95kAyrUg)
+>>Bài tập cuối kỳ mang tính chất tham khảo đổi với sinh viên
